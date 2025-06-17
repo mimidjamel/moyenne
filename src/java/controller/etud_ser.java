@@ -40,5 +40,5 @@ public class etud_ser extends HttpServlet {
     request.getRequestDispatcher("calcul.jsp").
             forward(request, response);
     
-    }
+    }omm
 }
